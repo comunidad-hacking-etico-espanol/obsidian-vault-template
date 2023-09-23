@@ -60,8 +60,17 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "0b98bf58f40c240a",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -139,9 +148,13 @@
       "command-palette:Abrir paleta de comandos": false,
       "workspaces:Gestionar disposiciones de espacio de trabajo": false,
       "audio-recorder:Empezar/Parar de grabar": false,
-      "markdown-importer:Abrir el importador de Markdown": false
+      "markdown-importer:Abrir el importador de Markdown": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "4a8eac90b0cc4c5e",
+  "active": "0b98bf58f40c240a",
   "lastOpenFiles": []
 }
