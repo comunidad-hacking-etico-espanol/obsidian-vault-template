@@ -114,11 +114,13 @@
             }
           },
           {
-            "id": "ad5a0642d7603d81",
+            "id": "cfd0cb52c4bc2890",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {}
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           }
         ]
@@ -133,9 +135,11 @@
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo canvas": false,
-      "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false
+      "command-palette:Abrir paleta de comandos": false,
+      "workspaces:Gestionar disposiciones de espacio de trabajo": false,
+      "audio-recorder:Empezar/Parar de grabar": false,
+      "markdown-importer:Abrir el importador de Markdown": false
     }
   },
   "active": "4a8eac90b0cc4c5e",
