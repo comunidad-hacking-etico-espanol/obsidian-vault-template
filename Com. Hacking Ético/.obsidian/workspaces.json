@@ -187,6 +187,16 @@
                     "unlinkedCollapsed": true
                   }
                 }
+              },
+              {
+                "id": "b1d66208c30cf619",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency"
+                  }
+                }
               }
             ],
             "currentTab": 1
@@ -211,7 +221,7 @@
           "homepage:Open homepage": false
         }
       },
-      "active": "ec9a96265676d191"
+      "active": "af77475b0bc9914d"
     },
     "Grafo global": {
       "main": {
