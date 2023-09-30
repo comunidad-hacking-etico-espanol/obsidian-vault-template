@@ -1,6 +1,6 @@
 {
-  "collapse-filter": true,
-  "search": "-file:HOME",
+  "collapse-filter": false,
+  "search": "-file:INICIO -path:\"00 - Recursos/_Tutorial\"  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,

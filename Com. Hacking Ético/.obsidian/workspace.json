@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5dda7e45257dcfb3",
+        "id": "2ad2afaa4e9cbc0c",
         "type": "tabs",
         "children": [
           {
-            "id": "ec9a96265676d191",
+            "id": "985f378754cde612",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HOME.md",
+                "file": "INICIO.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "HOME.md",
+                "file": "INICIO.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -163,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HOME.md",
+                "file": "INICIO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HOME.md",
+                "file": "INICIO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
