@@ -12,5 +12,8 @@
   "obsidian-vault-statistics-plugin",
   "obsidian-icon-shortcodes",
   "obsidian-plugin-update-tracker",
-  "dataview"
+  "dataview",
+  "quickadd",
+  "templater-obsidian",
+  "cmdr",
 ]

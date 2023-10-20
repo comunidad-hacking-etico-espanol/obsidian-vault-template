@@ -3,6 +3,8 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "fecha": "date"
+    "fecha": "text",
+    "plataforma": "text",
+    "web": "text"
   }
 }
