@@ -243,7 +243,7 @@ Breve descripción de la persona y datos remarcables.
 
 #### Comunidades
 
-Ya que esta bóveda es un proyecto para [[Comunidad de Hacking Ético|Com. Hacking Ético Español]], se incluye una sección para otras comunidades.
+Ya que esta bóveda es un proyecto para [[Comunidad de Hacking Ético|Com. Hacking Ético en Español]], se incluye una sección para otras comunidades.
 
 > Por defecto, aparecen las comunidades:
 > 
