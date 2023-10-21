@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Com. Hacking Ético Español
+  - Com. Hacking Ético en Español
   - Com. Hacking Ético
   - CHEE
   - HEE

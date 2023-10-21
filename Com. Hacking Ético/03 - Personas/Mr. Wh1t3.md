@@ -1,13 +1,17 @@
 ---
 aliases:
   - Mr. White
+web personal: https://mister.wh1t3.es
 ---
 # Introducción
+
+> [!CITE] Algo que siempre dice
+> Yo soy un eterno aprendiz.
 
 - Fundador de [[Comunidad de Hacking Ético]]
 - Fundador de [[Formula Hacking]]
 - Fundador de [[WarCTF]]
-- Cofundador y docente en [[H4ckingPro]]
+- Docente en [[H4ckingPro]]
 
 # Comunidades
 
@@ -18,48 +22,31 @@ aliases:
 |  :fab_github:  |             administrador :luc_crown:              |       -        |
 ^comunidades
 
-# Certificaciones
+# Trayectoria
 
-> #tutorial : sección para enlazar certificaciones con sus notas y su validación.
-> Se han incluido por defecto las 3 certificaciones más comunes entre los miembros.
+|     2023     | Coordinador de formación                     |
+|:------------:|:-------------------------------------------- |
+| [[Hispasec]] | Manager dentro del departamento de formación |
 
-|                                [[eJPT v2]]                                 |                                [[eCPPT v2]]                                 |                                                                                                        [[OSCP]]                                                                                                         |
-|:-----------------------------------------------------------------------:|:------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![logo](https://security.ine.com/wp-content/uploads/2023/08/eJPT-1.png) | ![logo](https://security.ine.com/wp-content/uploads/2023/08/eCPPT-1.png) | ![logo](https://imgs.search.brave.com/AcN1pFyBr8FmHczlBzMDXhLmj8fT2o7BMHULZADlQbk/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuY3JlZGx5LmNv/bS9pbWFnZXMvZWM4/MTEzNGQtZTgwYi00/ZWI1LWFlMDctMGVi/OGUxYTYwZmNkL2lt/YWdlLnBuZw) |
-|                               `error 404`                               |                               `error 404`                                |                                                                                                       `error 404`                                                                                                       |
-^certificaciones
+|     2023     | Organizador principal de la [[UAD360]] (3ª ed.) |
+|:------------:|:----------------------------------------------- |
+| [[Hispasec]] | Congreso de ciberseguridad organizado en Málaga |
 
-# Formación
+|     2022     | Personal docente                                                    |
+|:------------:|:------------------------------------------------------------------- |
+| [[Hispasec]] | Docente y formador tanto para empresas como para empleados internos |
 
-## Académica
+|     2022     | Organizador principal de la [[UAD360]] (2ª ed.) |
+|:------------:|:----------------------------------------------- |
+| [[Hispasec]] | Congreso de ciberseguridad organizado en Málaga |
 
-### Centro
-
-> #tutorial : descripción del centro donde se obtuvo uno o varios títulos.
-> Se ha incluido el siguiente formato de tabla para mostrar información específica.
-
-|     *año*     | *título*     |
-|:-----------:|:---------- |
-| descripción | *blablabla…* |
-| tecnologías | *lista…*     |
-
-## Complementaria
-
-> #tutorial : descripción de los cursos o de la autoformación conocida.
-> Se ha incluido el siguiente formato de tabla para mostrar información específica.
-
-|   *año*    | *título*      |
-|:--------:|:----------- |
-| *duración* | *descripción* |
-|          | *formador*    |
+|  2022   | Docente en el Máster de Ciberseguridad de la [[UAM]]         |
+|:-------:|:------------------------------------------------------------ |
+| [[UAM]] | Módulo "Fraude y Contramedidas" del curso "Especialista SOC" |
 
 # Proyectos
 
-## Nombre del proyecto
-
-> #tutorial : descripción del proyecto en el formato que defina el usuario.
-
-# Voluntariado
-
-> [!CITE] #tutorial : nombre del voluntariado
-> #tutorial : descripción del voluntariado.
+- [[Comunidad de Hacking Ético|Comunidad de Hacking Ético en Español]]: más de 2000 usuarios con los que compartir conocimientos de ciberseguridad y hacking ético.
+	- [[Comunidad de Hacking Ético#Iniciativa CTF|Iniciativa CTF]]: página web de retos [[CTF]] pública y gratuita.
+- [[WarCTF]]: plataforma de retos [[CTF]].
+- [[Formula Hacking]]: academia online enfocada a la enseñanza de Ciberseguridad y Hacking Ético.

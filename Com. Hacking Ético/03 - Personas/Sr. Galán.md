@@ -1,5 +1,6 @@
 ---
 aliases:
+  - Señor Galán
   - Galán
 web personal: https://srgalan.vercel.app
 ---
@@ -8,7 +9,7 @@ web personal: https://srgalan.vercel.app
 > [!CITE] Lema
 > Aumentar mi valor y el de los que me rodean.
 
-- Colaborador en [[Comunidad de Hacking Ético|Com. Hacking Ético Español]]
+- Colaborador en [[Comunidad de Hacking Ético|Com. Hacking Ético en Español]]
 - Docente en [[Formula Hacking]]
 - Desarrollador en [[WarCTF]]
 - Alumno en [[H4ckingPro]]
@@ -103,8 +104,8 @@ Cursos correspondientes a la **Fundación General de la Universidad de Málaga**
 	- Bóveda de [[Obsidian]] orientada a la ciberseguridad con plantillas y automatización
 - [[Formula Hacking]]
 	- Módulo de [[Obsidian]]
-	- Módulo de [[Notion]]
-	- Módulo de [[Git]] y [[GitHub]]
+	- Módulo de [[Git]]
+	- Módulo de [[GitHub]]
 - [[WarCTF]]
 	- Desarrollador
 	- Administrador de tareas
