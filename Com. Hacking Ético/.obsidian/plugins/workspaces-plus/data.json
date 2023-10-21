@@ -1,0 +1,25 @@
+{
+  "showInstructions": true,
+  "showDeletePrompt": true,
+  "saveOnSwitch": false,
+  "saveOnChange": false,
+  "workspaceSettings": false,
+  "systemDarkMode": false,
+  "globalSettings": {
+    "accentColor": "",
+    "enabledCssSnippets": [
+      "supercharged-links-gen",
+      "center-images",
+      "custom-callouts",
+      "keyboard-keys",
+      "center-mermaids"
+    ],
+    "alwaysUpdateLinks": true
+  },
+  "activeWorkspaceDesktop": "Estándar",
+  "activeWorkspaceMobile": "",
+  "reloadLivePreview": false,
+  "workspaceSwitcherRibbon": true,
+  "modeSwitcherRibbon": false,
+  "replaceNativeRibbon": true
+}

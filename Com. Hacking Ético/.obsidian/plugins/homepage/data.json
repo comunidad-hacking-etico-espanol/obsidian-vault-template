@@ -1,0 +1,22 @@
+{
+  "version": 3,
+  "homepages": {
+    "Main Homepage": {
+      "value": "00 - Recursos/Diagramas/Canvas/INICIO.canvas",
+      "kind": "File",
+      "openOnStartup": true,
+      "openMode": "Keep open notes",
+      "manualOpenMode": "Keep open notes",
+      "view": "Default view",
+      "revertView": true,
+      "openWhenEmpty": false,
+      "refreshDataview": true,
+      "autoCreate": true,
+      "autoScroll": false,
+      "pin": false,
+      "commands": [],
+      "alwaysApply": false
+    }
+  },
+  "separateMobile": false
+}

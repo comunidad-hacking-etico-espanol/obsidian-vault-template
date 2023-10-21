@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"a69e03cfee86b1b8","type":"group","x":-1460,"y":-380,"width":880,"height":540,"color":"6","label":"Notas"},
+		{"id":"1f20b7b7312f8082","type":"group","x":-1460,"y":200,"width":880,"height":480,"color":"#c800ff","label":"CTFs"},
+		{"id":"9482564cc8a0d047","type":"file","file":"Notas/Panel de control.md","subpath":"#Notas entrantes","x":-1440,"y":-340,"width":400,"height":480},
+		{"id":"ec078f133fd20341","type":"file","file":"Notas/Panel de control.md","subpath":"#MOCs","x":-1000,"y":-340,"width":400,"height":480},
+		{"id":"37d2b4e5158f8964","type":"file","file":"Notas/Panel de control.md","subpath":"#Últimos CTFs","x":-1000,"y":240,"width":400,"height":420,"color":"6"},
+		{"id":"ce82b0f55d8fe99e","type":"file","file":"Notas/Panel de control.md","subpath":"#CTFs pendientes","x":-1440,"y":240,"width":400,"height":420,"color":"6"},
+		{"id":"8a57fd1b67a05389","type":"file","file":"Notas/Panel de control.md","subpath":"#Registro","x":-560,"y":-380,"width":540,"height":1060,"color":"4"},
+		{"id":"49129f3fff43c819","type":"file","file":"00 - Recursos/Imágenes/Logo de CHEE.png","x":-1900,"y":-380,"width":400,"height":391},
+		{"id":"e8aa3b0c2db4badb","type":"link","url":"https://discord.com/widget?id=544877010783174656&theme=dark","x":-1900,"y":50,"width":400,"height":630},
+		{"id":"a2f2cbcec6a9dd07","type":"link","url":"https://srgalan.vercel.app/","x":20,"y":-380,"width":460,"height":1060,"color":"#0000ff"}
+	],
+	"edges":[]
+}

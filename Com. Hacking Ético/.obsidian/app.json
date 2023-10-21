@@ -1,0 +1,12 @@
+{
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Notas/Procesar",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "00 - Recursos",
+  "userIgnoreFilters": [
+    "00 - Recursos/Plantillas/",
+    "00 - Recursos/Diagramas/Excalidraw/"
+  ]
+}

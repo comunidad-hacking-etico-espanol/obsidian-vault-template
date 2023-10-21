@@ -1,0 +1,19 @@
+.callout[data-callout="like"] {
+    --callout-icon: lucide-thumbs-up;
+    --callout-color: 0, 255, 0
+}
+
+.callout[data-callout="dislike"] {
+    --callout-icon: lucide-thumbs-down;
+    --callout-color: 255, 0, 0
+}
+
+.callout[data-callout="flag"] {
+    --callout-icon: lucide-flag;
+    --callout-color: 200, 0, 255
+}
+
+.callout[data-callout="bean"] {
+    --callout-icon: lucide-bean;
+    --callout-color: 250, 0, 250
+}
