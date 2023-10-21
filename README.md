@@ -24,7 +24,7 @@ La bóveda se ha enfocado en el contexto de la ciberseguridad, tomando en cuenta
 - **Personas**: trayectoria profesional, proyectos y logros de personas de interés.
 
 > [!NOTE]
-> Visita la nota [Tutorial](/Com.%20Hacking%20Ético/Tutorial.md) para entender el funcionamiento y las razones de la configuración.
+> Visita la nota [Tutorial](https://github.com/comunidad-hacking-etico-espanol/obsidian-vault-template/blob/master/Com.%20Hacking%20%C3%89tico/Tutorial.md) para entender el funcionamiento y las razones de la configuración.
 
 ## ¿Qué es Obsidian?
 

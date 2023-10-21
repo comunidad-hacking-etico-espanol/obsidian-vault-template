@@ -7,6 +7,12 @@ Esta nota sirve como guía introductoria al uso de esta bóveda.
 > 
 > > Piensa en ellas como el aviso que aparece en algunos videojuegos cuando haces algo por primera vez; y por supuesto, elimínalas cuando te canses de ellas: tu *bóveda final* no debería tener ninguna.
 
+Adicionalmente, puedes consultar estos vídeos sobre el uso de [[Obsidian]] en base a la ciberseguridad:
+
+|                                                                                                                                         Parte I                                                                                                                                         |                                                                                                                                        Parte II                                                                                                                                         |
+|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| <iframe width="375" height="257" src="https://www.youtube.com/embed/lmQlrQCa57M?si=Lxi071-KCVejcsdZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> | <iframe width="357" height="257" src="https://www.youtube.com/embed/J5yd5ZgCedM?si=f13qV5IVDrvY1BhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> |
+
 # Flujo de trabajo
 
 ## Notas nuevas
@@ -180,7 +186,7 @@ Los alias son automáticos y representan la fecha de distintas formas.
 
 Estos formatos se generan automáticamente y son los siguientes:
 
-- `día`/`mes`/`año
+- `día`/`mes`/`año`
 - `día`-`mes`-`año`
 - `día de la semana` y `día`, `mes` de `año`
 
