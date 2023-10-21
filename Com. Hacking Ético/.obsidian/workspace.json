@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2ad2afaa4e9cbc0c",
+        "id": "906eeed562079f11",
         "type": "tabs",
         "children": [
           {
-            "id": "985f378754cde612",
+            "id": "54b6b7d059fa5bc6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INICIO.md",
+                "file": "Notas/Comunidad de Hacking Ético.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,10 +128,10 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "INICIO.md",
+                "file": "Notas/Comunidad de Hacking Ético.md",
                 "options": {
                   "collapse-filter": true,
-                  "search": "",
+                  "search": "-file:_ -file:{{ -file:INICIO.canvas -file:excalidraw ",
                   "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
@@ -139,8 +139,65 @@
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "tag:#certificacion",
+                      "color": {
+                        "a": 1,
+                        "rgb": 38655
+                      }
+                    },
+                    {
+                      "query": "tag:#concepto  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 16743680
+                      }
+                    },
+                    {
+                      "query": "tag:#herramienta  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 65535
+                      }
+                    },
+                    {
+                      "query": "tag:#lenguaje",
+                      "color": {
+                        "a": 1,
+                        "rgb": 65280
+                      }
+                    },
+                    {
+                      "query": "tag:#CTF  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 13107455
+                      }
+                    },
+                    {
+                      "query": "tag:#MOC  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 16711680
+                      }
+                    },
+                    {
+                      "query": "path:\"03 - Personas\"  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 16756580
+                      }
+                    },
+                    {
+                      "query": "path:\"04 - Código\"  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 16776960
+                      }
+                    }
+                  ],
                   "collapse-display": true,
                   "showArrow": false,
                   "textFadeMultiplier": 0,
@@ -163,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INICIO.md",
+                "file": "Notas/Comunidad de Hacking Ético.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +237,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INICIO.md",
+                "file": "Notas/Comunidad de Hacking Ético.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +248,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 626.5
+    "width": 527.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,11 +261,66 @@
       "audio-recorder:Empezar/Parar de grabar": false,
       "markdown-importer:Abrir el importador de Markdown": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
-      "homepage:Open homepage": false
+      "cmdr:Escribir un writeup": false,
+      "cmdr:Definir un concepto": false,
+      "cmdr:Crear la nota diaria": false,
+      "cmdr:Crear un contenido": false,
+      "cmdr:Crear un MOC": false,
+      "cmdr:Añadir un código": false,
+      "cmdr:Guardar una persona": false,
+      "homepage:Open homepage": false,
+      "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "ec9a96265676d191",
-  "lastOpenFiles": []
+  "active": "54b6b7d059fa5bc6",
+  "lastOpenFiles": [
+    "00 - Recursos/Diapositivas/Directo de Obsidian.md",
+    "Notas/Comunidad de Hacking Ético.md",
+    "00 - Recursos/Diagramas/Canvas/INICIO.canvas",
+    "Notas/Procesar/Proxy.md",
+    "Notas/Procesar/VPN.md",
+    "Tutorial.md",
+    "Notas/Procesar/VPN vs Proxy.md",
+    "Notas/Procesar/HackMyVM.md",
+    "HackMyVM.md",
+    "Hola.md",
+    "00 - Recursos/Plantillas/_moc.md",
+    "01 - Diario/2023-10-21.md",
+    "01 - Diario/2023-10-20.md",
+    "Notas/H4ckingPro.md",
+    "04 - Código/h4_hash-cracker.md",
+    "03 - Personas/Mr. Wh1t3.md",
+    "Notas/Procesar/eCPPT v2.md",
+    "Notas/OverTheWire.md",
+    "03 - Personas/Sr. Galán.md",
+    "Notas/MOC.md",
+    "Notas/Procesar/Sin título.md",
+    "00 - Recursos/Diagramas/Canvas/Ejemplo.canvas",
+    "00 - Recursos/Documentos/A quick guide to LaTeX.pdf",
+    "00 - Recursos/Grabaciones/error win-xp.mp3",
+    "00 - Recursos/Libros/Docker Seguro.pdf",
+    "00 - Recursos/Plantillas/_código.md",
+    "00 - Recursos/Plantillas/_concepto.md",
+    "00 - Recursos/Plantillas/_contenido.md",
+    "00 - Recursos/Plantillas/_diario.md",
+    "00 - Recursos/Plantillas/_writeup/_hack the box.md",
+    "00 - Recursos/Grabaciones/confesión.webm",
+    "00 - Recursos/Recording 20231015120050.webm",
+    "00 - Recursos/Recording 20231015120026.webm",
+    "00 - Recursos/Recording 20231015115948.webm",
+    "00 - Recursos/Recording 20231015115914.webm",
+    "00 - Recursos/Recording 20231015115835.webm",
+    "00 - Recursos/Recording 20231015115809.webm",
+    "00 - Recursos/Imágenes/Carpetas.png",
+    "00 - Recursos/Imágenes/Concepto de VPN.png",
+    "00 - Recursos/Imágenes/Concepto de Base de Datos.png",
+    "00 - Recursos/Imágenes/Logo de CHEE.png",
+    "00 - Recursos/Imágenes/logo-shadow-obsidian.png",
+    "00 - Recursos/Imágenes/qrcode2.png",
+    "00 - Recursos/Imágenes/PARA cocina.png",
+    "Chart Mon Oct 02 2023.png",
+    "Pasted image 20231001115900.png",
+    "Pasted image 20231001115827.png"
+  ]
 }
