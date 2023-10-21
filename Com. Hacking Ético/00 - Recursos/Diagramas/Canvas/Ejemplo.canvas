@@ -1,0 +1,28 @@
+{
+	"nodes":[
+		{"id":"18870c97cd7230e0","type":"group","x":-900,"y":-220,"width":960,"height":640,"color":"5","label":"Agrupación de objetos"},
+		{"id":"2c294286769272f5","type":"group","x":160,"y":-1100,"width":1204,"height":320,"color":"4","label":"Otro grupo"},
+		{"id":"89d8111981e6a694","type":"text","text":"Aquí voy a colocar una código:\n\n```python\nprint('Hola Mundo')\n```\n","x":1000,"y":-975,"width":320,"height":155,"color":"1"},
+		{"id":"98747bfd9d75cf7a","type":"text","text":"# Cómo se hizo\n\n1. Creé una nota\n2. La dividí usando `---`\n3. Recorté el contenido de cada sección\n\n# Cómo se usa\n\n1. Click derecho en el nombre de la nota\n2. *Empezar presentación*\n\n![[Carpetas.png]]\n","x":940,"y":-315,"width":424,"height":735},
+		{"id":"245b6e67775ba8b9","type":"file","file":"00 - Recursos/Imágenes/qrcode2.png","x":1177,"y":-707,"width":188,"height":188,"color":"#010101"},
+		{"id":"f597a1b22008a191","type":"text","text":"# Aquí voy a escribir en el formato H1 de [[Markdown]]","x":680,"y":-1060,"width":300,"height":150,"color":"6"},
+		{"id":"18ce307ed108acf9","type":"link","url":"https://ctf.comunidadhackingetico.es","x":-900,"y":-1100,"width":960,"height":785,"color":"#3232ff"},
+		{"id":"a86b85f4faf4b7e9","type":"file","file":"00 - Recursos/Imágenes/Grafo del Directo de Obsidian.png","x":-420,"y":-200,"width":452,"height":402,"color":"6"},
+		{"id":"b1e0a5dca84d0bac","type":"file","file":"00 - Recursos/Libros/Docker Seguro.pdf","x":-880,"y":-200,"width":424,"height":600},
+		{"id":"f5ef2abe478fca6f","type":"text","text":"Imagen del grafo de [[Obsidian]]","x":-330,"y":340,"width":300,"height":60},
+		{"id":"7f603de243738673","type":"file","file":"00 - Recursos/Diapositivas/Directo de Obsidian.md","x":160,"y":-520,"width":680,"height":940,"color":"3"},
+		{"id":"c38efb1cedc0a06f","type":"text","text":"# `INPUT`","x":460,"y":-900,"width":200,"height":60},
+		{"id":"7bd22d44d2079a5e","type":"text","text":"Esta pequeña nota de aquí no tiene mucho sentido, pero igualmente la he añadido para que se pueda observar un poco cómo funciona esto de los [[Obsidian Canvas|Canvas]].","x":200,"y":-1060,"width":240,"height":240,"color":"5"},
+		{"id":"33d9e34c2e0959e8","type":"text","text":"# Hola","x":460,"y":-1045,"width":200,"height":60},
+		{"id":"7609df1b01f42ab3","type":"text","text":"# Mundo","x":460,"y":-975,"width":200,"height":65}
+	],
+	"edges":[
+		{"id":"3574d98364e613d9","fromNode":"7f603de243738673","fromSide":"left","toNode":"a86b85f4faf4b7e9","toSide":"right"},
+		{"id":"cea92897302ca9b3","fromNode":"f5ef2abe478fca6f","fromSide":"top","toNode":"a86b85f4faf4b7e9","toSide":"bottom","toEnd":"none","color":"4","label":"¿Y esto?"},
+		{"id":"574f7fd309f2a47a","fromNode":"7f603de243738673","fromSide":"top","toNode":"18ce307ed108acf9","toSide":"right","label":"se usó esta web"},
+		{"id":"f0512446425b03d3","fromNode":"b1e0a5dca84d0bac","fromSide":"bottom","toNode":"98747bfd9d75cf7a","toSide":"bottom","color":"1"},
+		{"id":"c10ce2229e4cd26f","fromNode":"98747bfd9d75cf7a","fromSide":"top","toNode":"2c294286769272f5","toSide":"bottom"},
+		{"id":"d714c06c33efd7a7","fromNode":"c38efb1cedc0a06f","fromSide":"right","toNode":"f597a1b22008a191","toSide":"bottom"},
+		{"id":"9ee7188cb6275a80","fromNode":"98747bfd9d75cf7a","fromSide":"left","toNode":"7f603de243738673","toSide":"right","toEnd":"none"}
+	]
+}
