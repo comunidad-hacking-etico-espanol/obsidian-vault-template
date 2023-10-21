@@ -1,0 +1,110 @@
+{
+  "targetAttributes": [],
+  "targetTags": true,
+  "getFromInlineField": true,
+  "enableTabHeader": true,
+  "activateSnippet": true,
+  "enableEditor": true,
+  "enableFileList": true,
+  "enableBacklinks": true,
+  "enableQuickSwitcher": true,
+  "enableSuggestor": true,
+  "selectors": [
+    {
+      "type": "tag",
+      "name": "",
+      "value": "certificacion",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "e5ad-4277",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "tag",
+      "name": "",
+      "value": "concepto",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "cee5-1bf6",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "tag",
+      "name": "",
+      "value": "herramienta",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "c990-d5ae",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "tag",
+      "name": "",
+      "value": "lenguaje",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "43ee-3693",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "tag",
+      "name": "",
+      "value": "CTF",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "c40f-4564",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "tag",
+      "name": "",
+      "value": "MOC",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "b7ec-093f",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "path",
+      "name": "",
+      "value": "03 - Personas/",
+      "matchCaseSensitive": false,
+      "match": "contains",
+      "uid": "7a3d-8c9b",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "path",
+      "name": "",
+      "value": "04 - Código/",
+      "matchCaseSensitive": false,
+      "match": "contains",
+      "uid": "9323-112a",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    }
+  ]
+}

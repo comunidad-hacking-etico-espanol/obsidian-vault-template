@@ -1,0 +1,79 @@
+{
+  "confirmDeletion": false,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [],
+  "leftRibbon": [
+    {
+      "id": "quickadd:choice:2fdde6bf-a8f2-44e4-ab8d-dcba347141ec",
+      "icon": "text-cursor-input",
+      "name": "Definir un concepto",
+      "mode": "any",
+      "color": "#ff9600"
+    },
+    {
+      "id": "quickadd:choice:aaa9cfc7-5fa0-4f98-95c1-f060c2f14174",
+      "icon": "calendar",
+      "name": "Crear la nota diaria",
+      "mode": "any",
+      "color": "#00e1ff"
+    },
+    {
+      "id": "quickadd:choice:a7c141c9-0ead-459e-bc62-6d12d8e15b30",
+      "icon": "play-circle",
+      "name": "Crear un contenido",
+      "mode": "any",
+      "color": "#00ff00"
+    },
+    {
+      "id": "quickadd:choice:bc2664c6-3444-45eb-af9e-b548d8697b60",
+      "icon": "flag",
+      "name": "Escribir un writeup",
+      "mode": "any",
+      "color": "#c800ff"
+    },
+    {
+      "id": "quickadd:choice:256806e0-52da-46ba-b433-57bacb059f18",
+      "icon": "map",
+      "name": "Crear un MOC",
+      "mode": "any",
+      "color": "#ff0000"
+    },
+    {
+      "id": "quickadd:choice:ee8c7b93-c45f-447f-bd41-5170ca622de9",
+      "icon": "terminal-square",
+      "name": "Añadir un código",
+      "mode": "any",
+      "color": "#e1ff00"
+    },
+    {
+      "id": "quickadd:choice:55b32da2-60c5-44b6-bdf4-7d79d87e5c8a",
+      "icon": "person-standing",
+      "name": "Guardar una persona",
+      "mode": "any",
+      "color": "#e1af64"
+    }
+  ],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [],
+  "macros": [],
+  "explorer": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": []
+  },
+  "spacing": "8",
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}
