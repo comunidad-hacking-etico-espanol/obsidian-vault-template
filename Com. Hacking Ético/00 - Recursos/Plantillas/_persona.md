@@ -55,6 +55,16 @@ aliases:
 | *duración* | *descripción* |
 |          | *formador*    |
 
+# Trayectoria
+
+> #tutorial : descripción del puesto de trabajo.
+> Se ha incluido el siguiente formato de tabla para mostrar información específica.
+
+|     *año*     | *título*     |
+|:-----------:|:---------- |
+| descripción | *blablabla…* |
+| tecnologías | *lista…*     |
+
 # Proyectos
 
 ## Nombre del proyecto
