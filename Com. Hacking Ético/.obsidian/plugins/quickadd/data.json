@@ -187,6 +187,36 @@
       "command": true,
       "choices": [
         {
+          "id": "b88f8427-8851-438e-a780-533534ea9986",
+          "name": "Una Al Mes",
+          "type": "Template",
+          "command": true,
+          "templatePath": "00 - Recursos/Plantillas/_writeup/_una al mes.md",
+          "fileNameFormat": {
+            "enabled": false,
+            "format": ""
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "02 - Writeups"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false,
+            "chooseFromSubfolders": false
+          },
+          "appendLink": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": true,
+          "openFileInMode": "default",
+          "fileExistsMode": "Increment the file name",
+          "setFileExistsBehavior": false
+        },
+        {
           "id": "7ea8b495-b4eb-43c4-a580-71fa5ca93ca1",
           "name": "Com. Hacking Ético Español",
           "type": "Template",

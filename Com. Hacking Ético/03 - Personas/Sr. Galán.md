@@ -116,3 +116,12 @@ Cursos correspondientes a la **Fundación General de la Universidad de Málaga**
 > Tras participar en la [[#^bootcamp|1ª edición]], se me ofreció formar parte del equipo de Cybermentors para la nueva edición: una figura que nació para dar soporte a los participantes al inicio de cada proyecto del evento, donde se trataban sus objetivos, las dificultades y se ofrecían consejos para su realización.
 > 
 > Estas charlas/talleres se realizaban de forma remota para todos los campus de España, pero yo personalmente, también me dediqué a ayudar a los participantes del campus de Málaga en persona, resolviendo y aclarando dudas, dando pistas y proponiendo ideas sobre posibles desarrollos para algunos proyectos.
+
+> [!CITE] Formador: talleres de [[Git]] y [[GitHub]] en 42 Málaga
+> Realización de talleres formativos de las mencionadas herramientas, con una puntuación media de 4.8/5 en la intranet de 42 Málaga.
+> 
+> - **Fundamentos de [[Git]]**: flujo de uso, ramificación y sincronización de cambios.
+> - **Fundamentos de [[GitHub]]**: flujo de trabajo, páginas de repositorios, perfiles y organizaciones.
+> - **Trabajo colaborativo**: *issues* y *milestones*, *pulls requests*, *projects* y *wikis*.
+> - **Buenas prácticas**: cómo estructurar un proyecto, cómo realizar buenos *commits*...
+> - Casos de uso para estudiantes de 42 Málaga.
